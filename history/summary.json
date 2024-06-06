@@ -94,17 +94,19 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1128,
     "timeDay": 1128,
     "timeWeek": 1128,
     "timeMonth": 1128,
     "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   }
 ]
