@@ -7,8 +7,14 @@ sites:
     url: https://dl.alisttr.top
   - name: OneDrive Index
     url: https://onedrive.alisttr.top
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: edu.x88.one
+    url: https://edu.x88.one
+  - name: Backup
+    url: https://alive-pen-trung27031.koyeb.app
+  - name: x88
+    url: https://edu.x88.one/
+  - name: PC
+    url: https://pc.tailb415a.ts.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
