@@ -4,9 +4,9 @@
     "url": "https://dl.alisttr.top",
     "icon": "https://icons.duckduckgo.com/ip3/dl.alisttr.top.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 812,
     "timeMonth": 780,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-13": 0
+    }
   },
   {
     "name": "OneDrive Index",
@@ -95,13 +97,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
     "status": "up",
-    "uptime": "40.03%",
-    "uptimeDay": "23.89%",
+    "uptime": "40.70%",
+    "uptimeDay": "25.04%",
     "uptimeWeek": "39.17%",
-    "uptimeMonth": "40.03%",
-    "uptimeYear": "40.03%",
+    "uptimeMonth": "40.70%",
+    "uptimeYear": "40.70%",
     "time": 2022,
-    "timeDay": 1901,
+    "timeDay": 2482,
     "timeWeek": 2082,
     "timeMonth": 2022,
     "timeYear": 2022,
