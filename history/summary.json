@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-12-29": 185,
+      "2024-12-29": 255,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -254,18 +254,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alive-pen-trung27031.koyeb.app.ico",
     "slug": "backup",
     "status": "down",
-    "uptime": "6.73%",
+    "uptime": "6.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.73%",
+    "uptimeYear": "6.72%",
     "time": 238,
     "timeDay": 195,
     "timeWeek": 174,
     "timeMonth": 195,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-29": 185,
+      "2024-12-29": 255,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -485,12 +485,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "75.36%",
-    "uptimeDay": "44.21%",
+    "status": "down",
+    "uptime": "75.53%",
+    "uptimeDay": "44.20%",
     "uptimeWeek": "80.39%",
     "uptimeMonth": "62.36%",
-    "uptimeYear": "75.36%",
+    "uptimeYear": "75.53%",
     "time": 1497,
     "timeDay": 3209,
     "timeWeek": 1498,
@@ -604,7 +604,7 @@
       "2024-06-11": 918,
       "2024-06-10": 659,
       "2024-06-09": 810,
-      "2024-06-08": 890
+      "2024-06-08": 405
     }
   }
 ]
