@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-12-31": 228,
+      "2024-12-31": 234,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -237,9 +237,9 @@
     "slug": "edu-x88-one",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 706,
     "timeDay": 984,
@@ -247,7 +247,7 @@
     "timeMonth": 655,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2024-12-31": 27,
+      "2024-12-31": 33,
       "2024-12-30": 33,
       "2024-06-24": 180
     }
@@ -269,7 +269,7 @@
     "timeMonth": 198,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-31": 228,
+      "2024-12-31": 234,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -473,9 +473,9 @@
     "slug": "x88",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 576,
     "timeDay": 857,
@@ -483,7 +483,7 @@
     "timeMonth": 574,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-12-31": 26,
+      "2024-12-31": 31,
       "2024-12-30": 32,
       "2024-06-24": 180
     }
@@ -493,12 +493,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "79.33%",
-    "uptimeDay": "35.58%",
-    "uptimeWeek": "71.93%",
-    "uptimeMonth": "59.89%",
-    "uptimeYear": "79.33%",
+    "status": "down",
+    "uptime": "79.53%",
+    "uptimeDay": "35.57%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "59.88%",
+    "uptimeYear": "79.53%",
     "time": 1866,
     "timeDay": 8062,
     "timeWeek": 3881,
@@ -597,8 +597,7 @@
       "2024-06-29": 1296,
       "2024-06-28": 413,
       "2024-06-27": 633,
-      "2024-06-26": 317,
-      "2024-06-24": 596
+      "2024-06-26": 317
     }
   }
 ]
