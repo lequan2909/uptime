@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-12-31": 523,
+      "2024-12-31": 531,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -269,7 +269,7 @@
     "timeMonth": 198,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-31": 523,
+      "2024-12-31": 531,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -493,12 +493,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "80.21%",
-    "uptimeDay": "21.15%",
+    "status": "down",
+    "uptime": "80.28%",
+    "uptimeDay": "21.14%",
     "uptimeWeek": "69.71%",
     "uptimeMonth": "59.27%",
-    "uptimeYear": "80.21%",
+    "uptimeYear": "80.28%",
     "time": 1943,
     "timeDay": 9429,
     "timeWeek": 4357,
@@ -594,7 +594,7 @@
       "2024-07-02": 1098,
       "2024-07-01": 1440,
       "2024-06-30": 607,
-      "2024-06-29": 406
+      "2024-06-29": 210
     }
   }
 ]
