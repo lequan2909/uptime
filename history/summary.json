@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-12-31": 139,
+      "2024-12-31": 203,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -235,10 +235,10 @@
     "url": "https://edu.x88.one",
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 706,
@@ -247,6 +247,7 @@
     "timeMonth": 655,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2024-12-31": 2,
       "2024-12-30": 33,
       "2024-06-24": 180
     }
@@ -268,7 +269,7 @@
     "timeMonth": 198,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-31": 139,
+      "2024-12-31": 203,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -470,9 +471,9 @@
     "url": "https://edu.x88.one/",
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "x88",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.74%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -482,6 +483,7 @@
     "timeMonth": 574,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2024-12-31": 1,
       "2024-12-30": 32,
       "2024-06-24": 180
     }
@@ -492,18 +494,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
     "status": "down",
-    "uptime": "79.35%",
-    "uptimeDay": "39.80%",
+    "uptime": "79.34%",
+    "uptimeDay": "37.06%",
     "uptimeWeek": "71.93%",
-    "uptimeMonth": "60.09%",
-    "uptimeYear": "79.35%",
+    "uptimeMonth": "59.94%",
+    "uptimeYear": "79.34%",
     "time": 1840,
     "timeDay": 8158,
     "timeWeek": 3752,
     "timeMonth": 2897,
     "timeYear": 1840,
     "dailyMinutesDown": {
-      "2024-12-31": 62,
+      "2024-12-31": 126,
       "2024-12-30": 804,
       "2024-12-29": 331,
       "2024-12-28": 619,
