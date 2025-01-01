@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-01-01": 184,
+      "2025-01-01": 239,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -238,7 +238,7 @@
     "slug": "edu-x88-one",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "96.49%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
@@ -270,7 +270,7 @@
     "timeMonth": 197,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-01-01": 185,
+      "2025-01-01": 239,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -475,7 +475,7 @@
     "slug": "x88",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "96.59%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
@@ -495,15 +495,15 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "82.44%",
-    "uptimeDay": "37.95%",
-    "uptimeWeek": "64.41%",
+    "status": "down",
+    "uptime": "82.82%",
+    "uptimeDay": "41.30%",
+    "uptimeWeek": "64.49%",
     "uptimeMonth": "57.94%",
-    "uptimeYear": "82.44%",
+    "uptimeYear": "82.82%",
     "time": 2070,
-    "timeDay": 6837,
-    "timeWeek": 4724,
+    "timeDay": 6605,
+    "timeWeek": 4786,
     "timeMonth": 3592,
     "timeYear": 2070,
     "dailyMinutesDown": {
@@ -587,9 +587,7 @@
       "2024-07-12": 875,
       "2024-07-11": 1214,
       "2024-07-10": 1076,
-      "2024-07-09": 877,
-      "2024-07-08": 674,
-      "2024-07-07": 448
+      "2024-07-09": 877
     }
   }
 ]
