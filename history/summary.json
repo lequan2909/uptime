@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-04-19": 1038,
+      "2025-04-19": 1167,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -347,7 +347,7 @@
     "status": "up",
     "uptime": "96.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.91%",
+    "uptimeWeek": "80.19%",
     "uptimeMonth": "66.71%",
     "uptimeYear": "96.64%",
     "time": 771,
@@ -392,7 +392,7 @@
     "timeMonth": 247,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-04-19": 1039,
+      "2025-04-19": 1167,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -706,7 +706,7 @@
     "status": "up",
     "uptime": "96.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.91%",
+    "uptimeWeek": "80.19%",
     "uptimeMonth": "66.68%",
     "uptimeYear": "96.64%",
     "time": 596,
@@ -739,12 +739,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "66.02%",
-    "uptimeDay": "4.83%",
+    "status": "down",
+    "uptime": "66.13%",
+    "uptimeDay": "13.73%",
     "uptimeWeek": "33.17%",
-    "uptimeMonth": "35.62%",
-    "uptimeYear": "66.02%",
+    "uptimeMonth": "35.91%",
+    "uptimeYear": "66.13%",
     "time": 2089,
     "timeDay": 1688,
     "timeWeek": 1699,
@@ -892,9 +892,7 @@
       "2024-11-07": 185,
       "2024-11-06": 768,
       "2024-10-28": 198,
-      "2024-10-27": 617,
-      "2024-10-26": 75,
-      "2024-10-25": 388
+      "2024-10-27": 617
     }
   }
 ]
