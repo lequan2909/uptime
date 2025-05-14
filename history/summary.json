@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-05-14": 823,
+      "2025-05-14": 948,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -370,11 +370,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "96.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.88%",
+    "uptimeYear": "96.89%",
     "time": 762,
     "timeDay": 677,
     "timeWeek": 729,
@@ -417,7 +417,7 @@
     "timeMonth": 250,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-14": 823,
+      "2025-05-14": 948,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -789,12 +789,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "67.27%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "31.12%",
-    "uptimeYear": "67.27%",
+    "status": "down",
+    "uptime": "67.52%",
+    "uptimeDay": "8.69%",
+    "uptimeWeek": "2.42%",
+    "uptimeMonth": "31.40%",
+    "uptimeYear": "67.52%",
     "time": 2095,
     "timeDay": 3328,
     "timeWeek": 2976,
@@ -941,8 +941,7 @@
       "2024-12-24": 273,
       "2024-12-23": 57,
       "2024-12-21": 24,
-      "2024-12-20": 832,
-      "2024-12-19": 509
+      "2024-12-20": 150
     }
   }
 ]
