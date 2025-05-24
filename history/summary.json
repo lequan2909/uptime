@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-05-24": 932,
+      "2025-05-24": 942,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -382,8 +382,8 @@
     "status": "down",
     "uptime": "95.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.94%",
-    "uptimeMonth": "85.95%",
+    "uptimeWeek": "38.84%",
+    "uptimeMonth": "85.93%",
     "uptimeYear": "95.76%",
     "time": 761,
     "timeDay": 638,
@@ -391,7 +391,7 @@
     "timeMonth": 668,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-05-24": 932,
+      "2025-05-24": 942,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -432,7 +432,7 @@
     "timeMonth": 254,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-24": 932,
+      "2025-05-24": 942,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -781,8 +781,8 @@
     "status": "down",
     "uptime": "95.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.94%",
-    "uptimeMonth": "85.95%",
+    "uptimeWeek": "38.84%",
+    "uptimeMonth": "85.93%",
     "uptimeYear": "95.76%",
     "time": 586,
     "timeDay": 276,
@@ -790,7 +790,7 @@
     "timeMonth": 496,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-05-24": 932,
+      "2025-05-24": 942,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -819,12 +819,12 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "65.66%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "21.43%",
-    "uptimeYear": "65.66%",
+    "status": "down",
+    "uptime": "65.67%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "21.45%",
+    "uptimeYear": "65.67%",
     "time": 2099,
     "timeDay": 2517,
     "timeWeek": 2420,
@@ -978,8 +978,7 @@
       "2024-12-27": 74,
       "2024-12-26": 713,
       "2024-12-25": 57,
-      "2024-12-24": 273,
-      "2024-12-23": 57
+      "2024-12-24": 273
     }
   }
 ]
