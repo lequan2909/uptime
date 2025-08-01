@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-01": 930,
+      "2025-08-01": 947,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "down",
-    "uptime": "80.08%",
+    "uptime": "80.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,7 @@
     "timeMonth": 687,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-08-01": 930,
+      "2025-08-01": 947,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -516,7 +516,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alive-pen-trung27031.koyeb.app.ico",
     "slug": "backup",
     "status": "down",
-    "uptime": "3.29%",
+    "uptime": "3.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -527,7 +527,7 @@
     "timeMonth": 251,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-01": 930,
+      "2025-08-01": 947,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -904,14 +904,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.04%",
+    "uptimeYear": "77.03%",
     "time": 574,
     "timeDay": 576,
     "timeWeek": 491,
     "timeMonth": 511,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-08-01": 930,
+      "2025-08-01": 948,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1008,11 +1008,11 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "55.73%",
-    "uptimeDay": "1.97%",
+    "status": "down",
+    "uptime": "55.74%",
+    "uptimeDay": "3.17%",
     "uptimeWeek": "14.24%",
-    "uptimeMonth": "3.80%",
+    "uptimeMonth": "3.84%",
     "uptimeYear": "48.91%",
     "time": 2098,
     "timeDay": 1572,
@@ -1231,7 +1231,7 @@
       "2025-01-01": 231,
       "2024-12-31": 869,
       "2024-12-30": 804,
-      "2024-12-29": 51
+      "2024-12-29": 34
     }
   }
 ]
