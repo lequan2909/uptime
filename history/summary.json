@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-01": 871,
+      "2025-08-01": 900,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -411,14 +411,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.05%",
+    "uptimeYear": "77.04%",
     "time": 746,
     "timeDay": 667,
     "timeWeek": 704,
     "timeMonth": 687,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-08-01": 872,
+      "2025-08-01": 900,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -527,7 +527,7 @@
     "timeMonth": 251,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-01": 872,
+      "2025-08-01": 900,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -904,14 +904,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.05%",
+    "uptimeYear": "77.04%",
     "time": 574,
     "timeDay": 576,
     "timeWeek": 491,
     "timeMonth": 511,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-08-01": 872,
+      "2025-08-01": 900,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1008,13 +1008,13 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
+    "status": "down",
     "uptime": "55.73%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "1.96%",
     "uptimeWeek": "14.54%",
-    "uptimeMonth": "3.74%",
+    "uptimeMonth": "3.80%",
     "uptimeYear": "48.91%",
-    "time": 2102,
+    "time": 2101,
     "timeDay": 2095,
     "timeWeek": 1489,
     "timeMonth": 2157,
@@ -1231,7 +1231,7 @@
       "2025-01-01": 231,
       "2024-12-31": 869,
       "2024-12-30": 804,
-      "2024-12-29": 72
+      "2024-12-29": 51
     }
   }
 ]
