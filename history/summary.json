@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 645,
+      "2025-08-03": 655,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -407,18 +407,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "down",
-    "uptime": "79.74%",
+    "uptime": "79.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.55%",
+    "uptimeYear": "76.54%",
     "time": 746,
     "timeDay": 653,
     "timeWeek": 669,
     "timeMonth": 687,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-08-03": 645,
+      "2025-08-03": 655,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -529,7 +529,7 @@
     "timeMonth": 247,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-03": 645,
+      "2025-08-03": 655,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -913,7 +913,7 @@
     "timeMonth": 514,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-08-03": 645,
+      "2025-08-03": 655,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1012,11 +1012,11 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
+    "status": "down",
     "uptime": "55.57%",
-    "uptimeDay": "17.59%",
-    "uptimeWeek": "3.88%",
-    "uptimeMonth": "4.63%",
+    "uptimeDay": "18.29%",
+    "uptimeWeek": "3.98%",
+    "uptimeMonth": "4.66%",
     "uptimeYear": "48.50%",
     "time": 2099,
     "timeDay": 1701,
@@ -1236,7 +1236,7 @@
       "2025-01-02": 33,
       "2025-01-01": 231,
       "2024-12-31": 869,
-      "2024-12-30": 776
+      "2024-12-30": 750
     }
   }
 ]
