@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 677,
+      "2025-08-16": 688,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 657,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2025-08-16": 677,
+      "2025-08-16": 688,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -542,7 +542,7 @@
     "timeMonth": 260,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-08-16": 677,
+      "2025-08-16": 688,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -919,14 +919,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.98%",
+    "uptimeYear": "72.97%",
     "time": 571,
     "timeDay": 528,
     "timeWeek": 499,
     "timeMonth": 502,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-08-16": 677,
+      "2025-08-16": 688,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -1038,13 +1038,13 @@
     "url": "https://pc.tailb415a.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
-    "status": "up",
-    "uptime": "54.03%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "5.56%",
+    "status": "down",
+    "uptime": "54.04%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "5.59%",
     "uptimeYear": "45.08%",
-    "time": 2092,
+    "time": 2091,
     "timeDay": 1921,
     "timeWeek": 1933,
     "timeMonth": 1896,
@@ -1275,7 +1275,7 @@
       "2025-01-02": 33,
       "2025-01-01": 231,
       "2024-12-31": 869,
-      "2024-12-30": 639
+      "2024-12-30": 600
     }
   }
 ]
