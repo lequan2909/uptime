@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 60,
+      "2025-12-30": 56,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -379,8 +380,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 365,
-    "timeDay": 185,
+    "timeDay": 417,
     "timeWeek": 362,
-    "timeMonth": 388,
-    "timeYear": 359,
+    "timeMonth": 391,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-11-18": 157
     }
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "down",
-    "uptime": "59.11%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.11%",
+    "uptimeYear": "35.84%",
     "time": 736,
-    "timeDay": 665,
-    "timeWeek": 619,
-    "timeMonth": 785,
+    "timeDay": 692,
+    "timeWeek": 627,
+    "timeMonth": 647,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-12-29": 60,
+      "2025-12-30": 56,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -658,8 +659,7 @@
       "2025-04-03": 100,
       "2025-01-10": 422,
       "2025-01-09": 84,
-      "2024-12-31": 51,
-      "2024-12-30": 33
+      "2024-12-31": 51
     }
   },
   {
@@ -668,18 +668,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alive-pen-trung27031.koyeb.app.ico",
     "slug": "backup",
     "status": "down",
-    "uptime": "2.43%",
+    "uptime": "2.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 262,
-    "timeDay": 158,
-    "timeWeek": 171,
+    "timeDay": 198,
+    "timeWeek": 169,
     "timeMonth": 229,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-12-29": 61,
+      "2025-12-30": 56,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -1042,8 +1043,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -1052,18 +1052,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "x88",
     "status": "down",
-    "uptime": "59.11%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.11%",
-    "time": 527,
-    "timeDay": 288,
-    "timeWeek": 310,
-    "timeMonth": 312,
+    "uptimeYear": "35.83%",
+    "time": 526,
+    "timeDay": 302,
+    "timeWeek": 313,
+    "timeMonth": 315,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-12-29": 61,
+      "2025-12-30": 56,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -1301,8 +1302,7 @@
       "2025-04-03": 136,
       "2025-01-10": 422,
       "2025-01-09": 84,
-      "2024-12-31": 49,
-      "2024-12-30": 32
+      "2024-12-31": 49
     }
   },
   {
@@ -1311,18 +1311,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
     "status": "down",
-    "uptime": "41.32%",
+    "uptime": "41.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.25%",
-    "time": 2426,
+    "uptimeYear": "7.98%",
+    "time": 2903,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3216,
+    "timeYear": 3380,
     "dailyMinutesDown": {
-      "2025-12-29": 61,
+      "2025-12-30": 56,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -1681,8 +1682,7 @@
       "2025-01-03": 585,
       "2025-01-02": 33,
       "2025-01-01": 231,
-      "2024-12-31": 869,
-      "2024-12-30": 484
+      "2024-12-31": 869
     }
   }
 ]
