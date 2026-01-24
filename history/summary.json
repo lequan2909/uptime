@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -379,8 +380,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/onedrive.alisttr.top.ico",
     "slug": "one-drive-index",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "23.31%",
-    "uptimeWeek": "89.04%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.69%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "74.78%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.49%",
     "time": 365,
     "timeDay": 0,
-    "timeWeek": 438,
+    "timeWeek": 431,
     "timeMonth": 407,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1046,
       "2025-11-18": 157
     }
@@ -411,18 +412,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "down",
-    "uptime": "56.63%",
+    "uptime": "56.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.37%",
+    "uptimeYear": "29.10%",
     "time": 740,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 628,
-    "timeYear": 752,
+    "timeMonth": 626,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -697,12 +699,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 259,
-    "timeDay": 239,
-    "timeWeek": 274,
-    "timeMonth": 234,
+    "timeDay": 250,
+    "timeWeek": 261,
+    "timeMonth": 239,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -1065,8 +1068,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -1075,18 +1077,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "x88",
     "status": "down",
-    "uptime": "56.63%",
+    "uptime": "56.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.37%",
+    "uptimeYear": "29.10%",
     "time": 522,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 302,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -1355,7 +1358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
     "status": "down",
-    "uptime": "39.59%",
+    "uptime": "39.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1366,7 +1369,8 @@
     "timeMonth": 0,
     "timeYear": 2190,
     "dailyMinutesDown": {
-      "2026-01-23": 58,
+      "2026-01-24": 56,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -1725,8 +1729,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   }
 ]
