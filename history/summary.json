@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.alisttr.top.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "2.07%",
+    "uptime": "2.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -379,8 +380,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/onedrive.alisttr.top.ico",
     "slug": "one-drive-index",
     "status": "down",
-    "uptime": "70.33%",
+    "uptime": "70.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "31.25%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "30.97%",
     "time": 402,
     "timeDay": 0,
     "timeWeek": 0,
@@ -401,7 +401,8 @@
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-11-18": 157,
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -661,10 +662,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "edu-x88-one",
     "status": "down",
-    "uptime": "39.89%",
+    "uptime": "39.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 676,
     "timeDay": 0,
@@ -672,7 +673,8 @@
     "timeMonth": 0,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1035,8 +1037,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -1045,18 +1046,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alive-pen-trung27031.koyeb.app.ico",
     "slug": "backup",
     "status": "down",
-    "uptime": "1.64%",
+    "uptime": "1.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 216,
-    "timeDay": 265,
-    "timeWeek": 116,
+    "timeDay": 121,
+    "timeWeek": 124,
     "timeMonth": 111,
-    "timeYear": 185,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1419,8 +1421,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -1429,10 +1430,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/edu.x88.one.ico",
     "slug": "x88",
     "status": "down",
-    "uptime": "39.89%",
+    "uptime": "39.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 408,
     "timeDay": 0,
@@ -1440,7 +1441,8 @@
     "timeMonth": 0,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1803,8 +1805,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -1813,18 +1814,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.tailb415a.ts.net.ico",
     "slug": "pc",
     "status": "down",
-    "uptime": "27.88%",
+    "uptime": "27.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1929,
+    "time": 1906,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 173,
+      "2026-10-01": 179,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -2187,8 +2189,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   }
 ]
